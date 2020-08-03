@@ -5,6 +5,7 @@ Change to check stash
 
 ## Purpose
 
+<<<<<<< HEAD
 Sample website with plenty of files for demos
 
 ##Deployment
@@ -21,3 +22,6 @@ Now changing again on feature branch after master.
 
 2020@copyrights reserved.
 update .........fix
+=======
+Sample website with plenty of files for demos
+>>>>>>> parent of bffe466... deplyment:
